@@ -1,11 +1,5 @@
 Next Post
 ========
-Contributors: adampatterson
-Tags: post, custom
-Requires at least: 2.5
-Tested up to: 3.1
-Stable tag: 1
-
 
 Description
 -------------
